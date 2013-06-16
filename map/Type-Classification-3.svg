@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="Type-Classification-2.svg">
+   sodipodi:docname="Type-Classification-3.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -52,11 +52,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0261676"
-     inkscape:cx="1089.6583"
-     inkscape:cy="605.25213"
+     inkscape:zoom="1.5931719"
+     inkscape:cx="862.82046"
+     inkscape:cy="226.87241"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3259"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="852"
@@ -424,7 +424,7 @@
          sodipodi:role="line">Réale</tspan></text>
     <path
        transform="matrix(0.64499413,0,0,0.88892313,379.49831,-341.37372)"
-       d="m 1514.859,766.76404 a 437.38889,417.38632 0 1 1 -874.77779,0 437.38889,417.38632 0 1 1 874.77779,0 z"
+       d="m 1514.859,766.76404 c 0,230.5161 -195.8257,417.38636 -437.3889,417.38636 -241.56322,0 -437.38889,-186.87026 -437.38889,-417.38636 0,-230.5161 195.82567,-417.38632 437.38889,-417.38632 241.5632,0 437.3889,186.87022 437.3889,417.38632 z"
        sodipodi:ry="417.38632"
        sodipodi:rx="437.38889"
        sodipodi:cy="766.76404"
@@ -432,30 +432,33 @@
        id="path3134"
        style="fill:url(#radialGradient4314);fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="760.586"
-       y="866.55267"
-       id="text3164"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="760.586"
+    <g
+       id="g3243">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3164"
          y="866.55267"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arvo;-inkscape-font-specification:Arvo"
-         id="tspan3168">Nuage</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3172"
-       y="893.99213"
-       x="764.80743"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         id="tspan3174"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arvo;-inkscape-font-specification:Arvo"
-         y="893.99213"
+         x="760.586"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3168"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arvo;-inkscape-font-specification:Arvo"
+           y="866.55267"
+           x="760.586"
+           sodipodi:role="line">Nuage</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="764.80743"
-         sodipodi:role="line">Arvo</tspan></text>
+         y="893.99213"
+         id="text3172"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="764.80743"
+           y="893.99213"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arvo;-inkscape-font-specification:Arvo"
+           id="tspan3174">Arvo</tspan></text>
+    </g>
     <text
        sodipodi:linespacing="125%"
        id="text3176"
@@ -1557,6 +1560,62 @@
            y="70.067993"
            style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Baskervald ADF Std;-inkscape-font-specification:Baskervald ADF Std"
            id="tspan4584">Baskervald</tspan></text>
+    </g>
+    <g
+       id="g3249"
+       transform="translate(199.60181,-15.064288)">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="760.586"
+         y="866.55267"
+         id="text3251"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="760.586"
+           y="866.55267"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rokkitt;-inkscape-font-specification:Rokkitt"
+           id="tspan3253">Nuage</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3255"
+         y="893.99213"
+         x="760.80743"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3257"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rokkitt;-inkscape-font-specification:Rokkitt"
+           y="893.99213"
+           x="760.80743"
+           sodipodi:role="line">Rokkit</tspan></text>
+    </g>
+    <g
+       transform="translate(106.07769,68.416974)"
+       id="g3259">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3261"
+         y="866.55267"
+         x="760.586"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan3263"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Josefin Slab;-inkscape-font-specification:Josefin Slab"
+           y="866.55267"
+           x="760.586"
+           sodipodi:role="line">Nuage</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="760.80743"
+         y="893.99213"
+         id="text3265"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="760.80743"
+           y="893.99213"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Josefin Slab;-inkscape-font-specification:Josefin Slab"
+           id="tspan3267">Josefin Slab</tspan></text>
     </g>
   </g>
 </svg>
