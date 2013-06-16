@@ -1,0 +1,4 @@
+items = Scripter.activeDocument.activePage.selection
+print str(items)
+for text in items:
+      text.traceText()
