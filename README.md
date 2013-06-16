@@ -17,6 +17,7 @@ The font outlines are covered by their respective licences (mostly SIL OFL, GNU 
 ### Resources
 - [Notes on type taxonomies](http://titanpad.com/type-taxonomies)
 - A [survey of personal classification methods](http://titanpad.com/type-taxonomies-survey)
+
 ### Contributors
 - Manuel Schmalstieg : [ms-studio.net](http://ms-studio.net)
 - Marco Müller : [marco-mueller.com](http://www.marco-mueller.com/)
